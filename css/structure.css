@@ -18,3 +18,12 @@ h6,
 p {
   margin-bottom: 16px;
 }
+
+@font-face {
+  font-family: Proxima;
+  src: url(fonts/ProximaNovaScOsfExtraCondensed.ttf);
+}
+@font-face {
+  font-family: Gill;
+  src: url(fonts/Gill-Sans.otf);
+}
